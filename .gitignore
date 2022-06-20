@@ -1,4 +1,8 @@
+# ignore single files 
 new-file.txt
 
-
+# ignore all files and folders in bin folder 
 bin/
+
+# ignore files with .tmp extension
+*.tmp
